@@ -1,0 +1,65 @@
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+div ul li {
+    list-style-type: none;
+    list-style: none;
+    text-decoration: none;
+    color: rgb(44, 11, 42);
+    padding: 20px;
+    margin: 5px;
+    display: inline-block;
+    margin-left: 200px;
+
+}
+li a{
+    list-style-type: none;
+    list-style: none;
+    text-decoration: none;
+    color: rgb(44, 11, 42);
+    padding: 20px;
+    margin: 5px;
+    display: inline-block;
+    
+}
+.anasyf{
+    width: 20%;
+    height: 400px;
+    display: inline-block;
+    margin-left: 50px;
+
+}
+section{
+   display: flex;
+   justify-content: center;
+   margin-bottom: 20px;
+}
+section img{
+    width: 200px;
+    height: 200px;
+
+}
+h4{
+    text-align: center;
+    color: red;
+    font-size: 35px;
+}
+p{
+    margin-top: 20px;
+    padding-left: 20px;
+    margin-right: 20px;
+    justify-content: space-around;
+}
+h5{
+    margin-top: 20px;
+    padding-left: 50px;
+    margin-right: 20px;
+    font-size: 20px;
+}
+p{
+    margin-top: 20px;
+    margin-left: 20px;
+}
